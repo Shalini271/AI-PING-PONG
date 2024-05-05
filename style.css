@@ -1,0 +1,14 @@
+body{
+background-image:url("background1.jpg");
+}
+
+#title{
+    color:white;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+}
